@@ -1,1 +1,2 @@
+Gach chan 1 doan text
  tvSign.setPaintFlags(tvSign.getPaintFlags() | Paint.UNDERLINE_TEXT_FLAG);
