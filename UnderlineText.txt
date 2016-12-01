@@ -1,0 +1,1 @@
+ tvSign.setPaintFlags(tvSign.getPaintFlags() | Paint.UNDERLINE_TEXT_FLAG);
